@@ -1,11 +1,4 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -80,18 +73,4 @@ Dasith Vidanage - [@dasith_vidanage](https://twitter.com/dasith_vidanage) - dasi
 
 Project Link: [https://github.com/d4az/PortScanner](/d4az/PortScanner)
 
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/d4az/PortScanner/graphs/contributors
-
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/d4az/PortScanner/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/d4az/PortScanner/issues
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/dasith-vidanage-055389187/
-
-[product-screenshot]: demo/port scanner.png 
+[product-screenshot]: https://github.com/d4az/PortScanner/blob/main/demo/port%20scanner.png

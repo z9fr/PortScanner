@@ -1,5 +1,6 @@
 
 
+https://img.shields.io/bitbucket/issues-raw/d4az/PortScanner  https://img.shields.io/github/followers/d4az  
 
 <!-- PROJECT LOGO -->
 <br />
@@ -36,10 +37,6 @@ This is a Simple But Fast Port Scanner.That You can Use to Scan Your Network Rea
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a example How You can Run this on your computer 
-
-
-# PortScanner
 This is a SuperFast portscanner that helps you to see the open ports of your Network
 
 ### Installation

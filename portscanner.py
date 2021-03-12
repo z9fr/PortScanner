@@ -41,7 +41,7 @@ except KeyboardInterrupt:
     print("\nbye...")
     sys.exit()
 except socket.gaierror:
-    print("Host name is could be Resolved")
+    print("Host name could not be Resolved")
     sys.exit
 except socket.error:
     print("Could not Connect to Server")

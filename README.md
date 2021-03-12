@@ -1,6 +1,7 @@
 
+<a href="https://img.shields.io/bitbucket/issues-raw/d4az/PortScanner"> </a>
 
-https://img.shields.io/bitbucket/issues-raw/d4az/PortScanner  https://img.shields.io/github/followers/d4az  
+https://img.shields.io/github/followers/d4az  
 
 <!-- PROJECT LOGO -->
 <br />

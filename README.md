@@ -8,5 +8,6 @@ This is a SuperFast portscanner that helps you to see the open ports of your Net
 
 ### Running the Scan 
 
+    $ python3 .\portscanner.py 192.168.1.1 50 100
 
-![screenshot]("https://github.com/d4az/PortScanner/blob/main/demo/help.png")
+![screenshot](https://github.com/d4az/PortScanner/blob/main/demo/help.png)

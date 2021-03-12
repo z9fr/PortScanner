@@ -1,7 +1,14 @@
 
-<a href="https://github.com/d4az/"><img src="https://img.shields.io/bitbucket/issues-raw/d4az/PortScanner"> </a>
+<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/followers/d4az?style=social"> </a> 
+<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/stars/d4az/PortScanner?style=social"> </a> 
+<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/forks/d4az/PortScanner?style=social"> </a> 
+<a href="https://twitter.com/dasith_vidanage"><img src="https://img.shields.io/twitter/follow/dasith_vidanage?style=social"> </a> 
+<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/forks/d4az/PortScanner?style=social"> </a> 
+<a href="https://www.linkedin.com/in/dasith-vidanage-055389187/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+<a href="https://instagram.com/wakeupdaz/"> <img src="https://img.shields.io/badge/-wakeupdaaz-%238a3ab9?style=social&logo=instagram"> </a>
 
-https://img.shields.io/github/followers/d4az  
+
+
 
 <!-- PROJECT LOGO -->
 <br />

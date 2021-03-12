@@ -18,14 +18,14 @@
   <p align="center">
   This is a SuperFast portscanner that helps you to see the open ports of your Network !
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Read Me »</strong></a>
+    <a href="https://github.com/d4az/PortScanner/blob/main/README.md"><strong>Read Me »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/d4az/PortScanner/tree/main/demo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/d4az/PortScanner/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/d4az/PortScanner/pulls">Add a Pull Request </a>
   </p>
 </p>
 
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Scanner
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Scanner][PortScanner]](https://github.com/d4az/PortScanner/blob/main/demo/port%20scanner.png)
 
 This is a Simple But Fast Port Scanner.That You can Use to Scan Your Network Really Fast.  This Script Is coded using Python3.    
 
@@ -72,12 +72,12 @@ You can use this to check the open ports on your netwok or anyother machine its 
 
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/d4az/PortScanner/issues) for a list of proposed features (and known issues).
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@dasith_vidanage](https://twitter.com/dasith_vidanage) - dasithvidanage000@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/d4az/PortScanner](https://github.com/d4az/PortScanner)
 
 

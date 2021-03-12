@@ -1,2 +1,2 @@
-# PortScanner-
-A Fast PortScanenr 
+# PortScanner
+This is a SuperFast portscanner that helps you to see the open ports of your newtowk

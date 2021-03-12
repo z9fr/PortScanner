@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Scanner
 
-[![Scanner][PortScanner]](https://github.com/d4az/PortScanner/blob/main/demo/port%20scanner.png)
+![screenshot](https://github.com/d4az/PortScanner/blob/main/demo/port%20scanner.png)
 
 This is a Simple But Fast Port Scanner.That You can Use to Scan Your Network Really Fast.  This Script Is coded using Python3.    
 
@@ -73,4 +73,3 @@ Dasith Vidanage - [@dasith_vidanage](https://twitter.com/dasith_vidanage) - dasi
 
 Project Link: [https://github.com/d4az/PortScanner](/d4az/PortScanner)
 
-[product-screenshot]: https://github.com/d4az/PortScanner/blob/main/demo/port%20scanner.png

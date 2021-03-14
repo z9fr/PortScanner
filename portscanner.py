@@ -9,7 +9,6 @@ if len(sys.argv) ==4:
     target = socket.gethostbyname(sys.argv[1]) #translate hostname for ipv4
     startport = int(sys.argv[2])
     endport = int(sys.argv[3])
-
 else:
     #help banner
     print("-"*50)

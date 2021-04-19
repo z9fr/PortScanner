@@ -4,6 +4,7 @@ import socket
 from datetime import datetime
 
 #define the target
+
 if len(sys.argv) ==4:
     target = socket.gethostbyname(sys.argv[1]) #translate hostname for ipv4
     startport = int(sys.argv[2])

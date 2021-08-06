@@ -11,7 +11,7 @@ if len(sys.argv) ==4:
 else:
     #help banner
     print("-"*50)
-    print("PortScanner 1.0 (https://github.com/d4az) ")
+    print("PortScanner 1.0 (https://github.com/dasithsv) ")
     print("Usage : python3 portscanner.py <ip> <p1> <p2> ")
     print("     -ip The ip address of the target. ")
     print("     -p1 The Port To Start the Scan.")
